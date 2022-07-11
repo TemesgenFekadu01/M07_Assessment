@@ -1,0 +1,24 @@
+Friday Afternoon:
+	- Create Holiday class
+	- Create data classes for Holiday class
+	- Create UI
+	- Create Git repo, push changes every couple hours
+	- Complete & test simpler HolidayList functions
+		- addHoliday
+		- findHoliday
+		- removeHoliday
+		- read_json
+		- save_to_json
+
+Saturday:
+	- Complete and test the more complex functions
+		- scrapeHolidays
+		- filter_holidays_by_week
+		- displayHolidaysInWeek
+		- viewCurrentWeek
+
+Sunday:
+	- Complete & test any unfinished complex functions
+		- getWeather
+	- Complete the main function
+	- Upload final files to GitHub, create README file
